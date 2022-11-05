@@ -1,0 +1,11 @@
+.title {
+  text-align: center;
+  padding-top: 50px;
+}
+.about {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  padding: 0px 150px 50px 150px;
+}

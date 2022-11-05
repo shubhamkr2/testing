@@ -1,0 +1,19 @@
+.home {
+  margin: 0;
+  padding: 0;
+  padding-top: 275px;
+  padding-bottom: 100px;
+  background-color: rgb(230, 245, 230);
+  display: flex;
+  justify-content: center;
+  gap: 70px;
+  line-height: .75;
+}
+
+.name {
+  font-size: 60px;
+}
+
+.profile img {
+  border-radius: 25px;
+}
